@@ -1,1 +1,1 @@
-This supply chain dataset includes product details, sales performance, customer demographics, logistics metrics, and quality control data. Visualizing this dataset can help the company identify top-selling products, optimize inventory, improve logistics efficiency, reduce costs, and address quality issues. These insights enable data-driven decisions, enhancing operational efficiency and customer satisfaction.
+Supply chain data visualization with RStudio, using R libraries such as ggplot2 and plotly.
