@@ -1,1 +1,1 @@
-Supply chain data visualization with RStudio, using R libraries such as ggplot2 and plotly.
+Visualize supply chain data in RStudio using R libraries like ggplot2 and plotly.
