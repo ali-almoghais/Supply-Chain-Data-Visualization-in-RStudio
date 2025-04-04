@@ -18,5 +18,4 @@ This project analyzes supply chain data using R to identify inefficiencies, opti
 
 ## Key Insights
 - **Shipping Delays**: 25% of shipments experience delays, primarily from Supplier B.  
-- **Cost Inefficiencies**: Supplier C has the highest transportation cost per unit.  
-- **Regional Trends**: Orders from the East region take longer to deliver due to warehouse congestion.
+- **Cost Inefficiencies**: Supplier C has the highest transportation cost per unit. 
